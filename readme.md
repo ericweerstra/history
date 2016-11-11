@@ -21,4 +21,4 @@ gulp dev
 ```
 Then point your browser to `http://localhost:8000/templates/page-1.html`
 
-[Demov](https://visualformation.com/history)
+[Demo](http://visualformation.com/history/templates/page-1.html)
