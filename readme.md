@@ -1,4 +1,4 @@
-# Practical and flexibel History API example
+# Practical and flexibel HTML5 History API example
 
 ## How to: Setup development environment
 1. Make sure the following is installed on your machine:
